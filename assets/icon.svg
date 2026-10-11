@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="飞书推送">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4A8BFF"/>
+      <stop offset="0.55" stop-color="#2C6BEC"/>
+      <stop offset="1" stop-color="#1B4FC9"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="30" fill="url(#sky)"/>
+  <g opacity="0.35" fill="none" stroke="#FFFFFF" stroke-width="3.4" stroke-linecap="round">
+    <path d="M94 22c6 8 6 20 0 28"/>
+    <path d="M106 14c10 12 10 32 0 44"/>
+  </g>
+  <path d="M100 34 L26 66 L56 76 Z" fill="#FFFFFF"/>
+  <path d="M100 34 L56 76 L66 104 Z" fill="#BFD5FF"/>
+  <path d="M56 76 L66 104 L78 82 Z" fill="#FFFFFF" opacity="0.92"/>
+  <circle cx="30" cy="100" r="5" fill="#FFB067"/>
+</svg>
